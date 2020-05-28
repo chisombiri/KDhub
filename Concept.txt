@@ -1,0 +1,7 @@
+A music player that plays some of the best kendrick Lamar songs
+What can it do?
+1. Play song
+2. Pause song
+3. Go to next song
+4. Go to previous song
+5. Skip song time with progress bar
